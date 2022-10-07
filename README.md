@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on NFT projects
 - 📫 How to reach me:
-- Email: @ricefarmer.eth@gmail.com
-- Twitter: @RiceFarmerNFT
+- Email: ricefarmer.eth@gmail.com
+- Twitter: https://twitter.com/RiceFarmerNFT
 
 <!---
 ricefarmernft/ricefarmernft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
