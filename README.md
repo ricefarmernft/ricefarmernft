@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ricefarmernft
 - 👀 I’m interested in Web Development and Blockchain
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on NFT projects
+- 🌱 I’m currently learning Solidity
 - 📫 How to reach me:
 - Email: ricefarmer.eth@gmail.com
 - Twitter: https://twitter.com/RiceFarmerNFT
